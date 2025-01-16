@@ -37,7 +37,7 @@ A modern course platform for learning AI and machine learning, built with Next.j
 ### Detailed Installation Steps
 
 1. Create a new Next.js project:
-\`\`\`bash
+\`\`\`bash \n
 npx create-next-app@latest aispaces-courses
 \`\`\`
 
