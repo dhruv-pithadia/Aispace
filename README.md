@@ -42,6 +42,8 @@ npx create-next-app@latest aispaces-courses
 \`\`\`
 
 Select the following options when prompted:
+
+
 \`\`\`bash
 ✔ Would you like to use TypeScript? Yes
 ✔ Would you like to use ESLint? Yes
