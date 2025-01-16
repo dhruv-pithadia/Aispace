@@ -30,7 +30,7 @@ A modern course platform for learning AI and machine learning, built with Next.j
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aispaces-courses.git
+   git clone https://github.com/Tanmay9296/Aispace.git
    cd aispaces-courses
    ```
 
